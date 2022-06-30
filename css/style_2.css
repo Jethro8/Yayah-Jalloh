@@ -1,0 +1,11 @@
+body {
+  background: white;
+}
+
+.box {
+  width: 260px;
+  height: 280px;
+  background: cyan;
+  margin-left: 400px;
+  border: 5px solid gold;
+}

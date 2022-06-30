@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+  margin-top: 0px;
+}
+
+.part-1 {
+  background: green;
+  padding-left: 50px;
+  padding-bottom: 120px;
+  border-bottom:  4px solid grey;
+  margin-top: 0px;
+}
+
+h1 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+p {
+  margin-top: 0px;
+}
+
+.part-2 {
+  background: blue;
+  padding-left: 50px;
+  padding-bottom: 120px;
+  margin-top: 0px;
+}
